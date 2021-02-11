@@ -1,5 +1,0 @@
-doctr
-sphinx
-sphinx_rtd_theme
-ipython
-doctr-versions-menu
