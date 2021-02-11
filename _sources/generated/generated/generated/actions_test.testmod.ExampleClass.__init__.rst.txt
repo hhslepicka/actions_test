@@ -1,0 +1,6 @@
+actions\_test.testmod.ExampleClass.\_\_init\_\_
+===============================================
+
+.. currentmodule:: actions_test.testmod
+
+.. automethod:: ExampleClass.__init__

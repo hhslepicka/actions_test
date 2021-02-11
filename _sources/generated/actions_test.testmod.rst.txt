@@ -1,0 +1,40 @@
+﻿actions\_test.testmod
+=====================
+
+.. automodule:: actions_test.testmod
+
+   
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+      :toctree: generated
+   
+      example_generator
+      function_with_pep484_type_annotations
+      function_with_types_in_docstring
+      module_level_function
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+      :toctree: generated
+   
+      ExampleClass
+   
+   
+
+   
+   
+   .. rubric:: Exceptions
+
+   .. autosummary::
+      :toctree: generated
+   
+      ExampleError
+   
+   

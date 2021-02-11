@@ -1,0 +1,6 @@
+actions\_test.testmod.ExampleError
+==================================
+
+.. currentmodule:: actions_test.testmod
+
+.. autoexception:: ExampleError

@@ -1,0 +1,29 @@
+actions\_test.testmod.ExampleClass
+==================================
+
+.. currentmodule:: actions_test.testmod
+
+.. autoclass:: ExampleClass
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree: generated
+   
+      ~ExampleClass.__init__
+      ~ExampleClass.example_method
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+   
+      ~ExampleClass.readonly_property
+      ~ExampleClass.readwrite_property
+   
+   

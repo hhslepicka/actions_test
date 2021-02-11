@@ -1,0 +1,6 @@
+actions\_test.testmod.example\_generator
+========================================
+
+.. currentmodule:: actions_test.testmod
+
+.. autofunction:: example_generator

@@ -1,0 +1,6 @@
+actions\_test.testmod.module\_level\_function
+=============================================
+
+.. currentmodule:: actions_test.testmod
+
+.. autofunction:: module_level_function
